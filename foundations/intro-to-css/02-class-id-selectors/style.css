@@ -1,12 +1,12 @@
 .bgc { 
-    background-color: #dd0b9e ;
+    background-color: #d872a2 ;
     font: Verdana; DejaVu Sans; sans-serif;
 }
 #second {
     color: rgb(0, 0, 255); 
     font-size: 36px;
 }
-.bgc.cooler {
+.cool {
     font-size: 24px;
 }
 #fourth {

@@ -1,0 +1,16 @@
+.bgc { 
+    background-color: #dd0b9e ;
+    font: Verdana; DejaVu Sans; sans-serif;
+}
+#second {
+    color: rgb(0, 0, 255); 
+    font-size: 36px;
+}
+.bgc.cooler {
+    font-size: 24px;
+}
+#fourth {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
